@@ -4,7 +4,7 @@
 window.RBF_CONFIG = {
   // Google Analytics 4 measurement ID, for example "G-ABC123XYZ9".
   // While this is the placeholder, analytics stays switched off.
-  GA4_ID: "G-XXXXXXXXXX",
+  GA4_ID: "G-KHRXTPK0SZ",
 
   // Web app URL of the RBF form script, for example "https://script.google.com/macros/s/AKfy.../exec".
   // Set up with apps-script/contact-form.gs. Messages land in the "RBF Website Messages" Google Sheet
