@@ -110,6 +110,7 @@ section{padding:72px 0;}
 h2{font-size:clamp(27px,4vw,38px);line-height:1.15;margin-bottom:18px;color:var(--ink);}
 p.body{font-size:17.5px;color:var(--text);margin-bottom:16px;max-width:66ch;}
 p.body b{color:var(--ink);font-weight:700;}
+.page-hero p.wide,p.body.wide{max-width:none;}
 .lede{font-size:18.5px!important;}
 .note{font-size:14.5px;color:var(--slate);margin-top:18px;font-style:italic;}
 h3.sub{display:flex;align-items:center;flex-wrap:wrap;gap:10px 12px;font-size:25px;color:var(--ink);margin:52px 0 12px;}
